@@ -1,4 +1,6 @@
 # Disaster-Tweets-NLP-Kaggle-Project
+[This is a project from Kaggle Competition: Natural Language Processing with Disaster Tweets
+Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)
 Built a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. 
 Model is trained with the Kaggle dataset of 10,000 tweets that were hand classified.
 
