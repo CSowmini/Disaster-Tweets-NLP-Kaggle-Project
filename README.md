@@ -9,6 +9,8 @@ Dataset -> kaggle competitions download -c nlp-getting-started
 
 Submissions are evaluated using F1 between the predicted and expected answers.
 
+Approach : 
+
 F1 is calculated as follows:
 
 True Positive [TP] = your prediction is 1, and the ground truth is also 1 - you predicted a positive and that's true!
